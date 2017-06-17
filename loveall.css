@@ -1,0 +1,32 @@
+@charset "utf-8";
+#loveall {
+	font-family: "黑体";
+	margin: auto;
+	height: 2000px;
+	width: 1260px;
+}
+#love one {
+	margin: auto;
+	height: 75px;
+	width: 1280px;
+}
+#lovetwo {
+	margin: auto;
+	height: 400px;
+	width: 1280px;
+}
+#lovethree {
+	margin: auto;
+	height: 1020px;
+	width: 1280px;
+}
+#love5 {
+	margin: auto;
+	height: 150px;
+	width: 1280px;
+}
+#lovesix {
+	margin: auto;
+	height: 140px;
+	width: 1280px;
+}

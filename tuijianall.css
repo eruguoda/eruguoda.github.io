@@ -1,0 +1,25 @@
+@charset "utf-8";
+#tuijianall {
+	margin: auto;
+	height: 1900px;
+	width: 1280px;
+}
+#tuione {
+	height: 75px;
+	width: 1280px;
+}
+#tuisecond {
+	margin: auto;
+	height: 800px;
+	width: 1280px;
+	line-height: normal;
+}
+#tuijianall {
+	font-family: "黑体";
+}
+#tuithree {
+	margin: auto;
+	height: 1000px;
+	width: 1280px;
+	line-height: 60px;
+}

@@ -1,0 +1,26 @@
+@charset "utf-8";
+#muxinall {
+	font-family: "黑体";
+	margin: auto;
+	height: 2000px;
+	width: 1280px;
+}
+#muxin one {
+	margin: auto;
+	height: 100px;
+	width: 1280px;
+	font-family: "黑体";
+}
+
+#muxinsecond {
+	font-family: "黑体";
+	margin: auto;
+	height: 800px;
+	width: 1280px;
+}
+#muxinthree {
+	margin: auto;
+	height: 800px;
+	width: 1280px;
+	font-family: "黑体";
+}

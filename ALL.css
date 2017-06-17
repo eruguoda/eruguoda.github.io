@@ -1,0 +1,48 @@
+@charset "utf-8";
+#ALL {
+	margin: auto;
+	height: 2222px;
+	width: 1270px;
+	font-family: "黑体";
+	font-size: 16px;
+}
+
+#TOP {
+	height: 105px;
+	width: 1270px;
+	margin: auto;
+}
+#main {
+	font-family: "黑体";
+	background-color: #FFF;
+	margin: auto;
+	height: 450px;
+	width: 1270px;
+}
+
+#four {
+	margin: auto;
+	height: 100px;
+	width: 1270px;
+}
+
+#five {
+	margin: auto;
+	height:2500 x;
+	width: 1270px;
+	background-color: #FFF;
+}
+#six {
+	margin: auto;
+	height: 140px;
+	width: 1270px;
+}
+body {
+	margin-left: 0px;
+}
+#three {
+	font-family: "黑体";
+	margin: auto;
+	height: 35px;
+	width: 1270px;
+}
